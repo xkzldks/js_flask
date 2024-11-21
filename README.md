@@ -20,7 +20,7 @@ Python_Flask기반 출석체크 사이트입니다.
 
 
 ## 📄 Runningweb Site
-[zion](https://port-0-zion-flask-k19y2kljzuim4t.sel4.cloudtype.app/)
+[zion](https://port-0-js-flask-1lxbjl7sy.sel5.cloudtype.app/)
 
 ## 📄 Server
-[cloudType](https://port-0-js-flask-1lxbjl7sy.sel5.cloudtype.app/)
+[cloudType](https://app.cloudtype.io/@whoisxkzldks/jjch_js_chul:app)
