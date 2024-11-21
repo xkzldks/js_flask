@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta property="og:title" content="시온 출석체크" />
+    <meta property="og:title" content="여호수아 출석체크" />
     <meta property="og:description" content="출석체크" />
     <meta property="og:image" content="{{ url_for('static', filename='icon2.png') }}" />
 
@@ -122,14 +122,14 @@ container{
       {% if session['username'] %}
           <a class ="nav nav-link" href="/" aria-label="Product" style="color: white;">
               <img alt="" src="/static/image/icon2.png" width="24px" height="24px">
-              시온 청년부
+              여호수아 청년부
           </a>
           <a href="{{ url_for('account.logout' )}}" style="text-align : right;" class="nav-link">로그아웃</a>
       {% else %}
 
           <a class ="nav-link" href="/" aria-label="Product" style="color: white">
               <img alt="" src="/static/image/icon2.png" width="24px" height="24px">
-              시온 청년부
+              여호수아 청년부
           </a>
           <a href="{{ url_for('account.login') }}" class="nav-link">로그인</a>
           <a href="{{ url_for('account.register')}}" class="nav-link">회원가입</a>
