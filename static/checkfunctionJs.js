@@ -529,7 +529,7 @@
                       console.log(dbP);
                       console.log(dbG);
                       document.getElementById("txtPanelAddCheckbox").innerHTML = "";
-                      var t = "<div style ='text-align : center';>시온전체명단</div>";
+                      var t = "<div style ='text-align : center';>여호수아전체명단</div>";
                       document.getElementById("txtPanelAddCheckbox").innerHTML += t;
 
                       for(let i = 0; i < dbG.length; i++){
